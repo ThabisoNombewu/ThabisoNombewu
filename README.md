@@ -33,7 +33,7 @@ const thabiso = {
 🔭 Working as a Digital Associate
 💡 Passionate about building real-world business solutions
 🌐 Experienced in both frontend & backend development
-🤖 Interested in AI-powered systems & automation
+🤖 Interested in FinTech, AI-powered systems & automation
 📚 Constantly learning and improving my tech stack
 🧠 Tech Stack
 
